@@ -17,7 +17,7 @@ Aplicación web para organizar un sorteo de Amigo Secreto.
 
 ## 📸 Capturas
 
-### Pantalla principal
+### Logo
 ![Logo](./assets/amigo-secreto.png)
 
 ### Funcionamiento del sorteo
